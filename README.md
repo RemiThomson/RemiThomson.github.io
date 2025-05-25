@@ -8,5 +8,5 @@ Built using HTML, CSS, and JavaScript and hosted with GitHub Pages.
 
 ## 🧠 What You'll Find
 - About Me
-- Projects (FPGA, Web, Embedded)
+- Projects 
 - Contact Info
