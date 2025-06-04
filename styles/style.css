@@ -145,8 +145,9 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
+  text-align: left;
 }
 
 .about-pic {
